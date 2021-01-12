@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T10:03:50.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.1.9" etag="kGBZdrnyMjyZ9evtXuOU" type="github"><diagram id="SlvFDnDz0awPIvv_oMcf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-12T10:57:02.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="keTptT1z8OAh8gqJ-51j" version="14.1.9" type="github">
+  <diagram id="SlvFDnDz0awPIvv_oMcf" name="Page-1">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MJJabKqq_zY4u-ENnEps-7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Login&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MJJabKqq_zY4u-ENnEps-8" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJJabKqq_zY4u-ENnEps-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MJJabKqq_zY4u-ENnEps-8" target="MJJabKqq_zY4u-ENnEps-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJJabKqq_zY4u-ENnEps-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Add , modify , edit hotels, transport , packages and routes&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="315" y="450" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MJJabKqq_zY4u-ENnEps-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MJJabKqq_zY4u-ENnEps-7" target="MJJabKqq_zY4u-ENnEps-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="480" as="sourcePoint" />
+            <mxPoint x="440" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJJabKqq_zY4u-ENnEps-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;View/update user info&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MJJabKqq_zY4u-ENnEps-17" value="" style="endArrow=classic;html=1;entryX=-0.017;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MJJabKqq_zY4u-ENnEps-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="267" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJJabKqq_zY4u-ENnEps-18" value="" style="endArrow=classic;html=1;exitX=0.923;exitY=0.846;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MJJabKqq_zY4u-ENnEps-7" target="MJJabKqq_zY4u-ENnEps-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="570" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJJabKqq_zY4u-ENnEps-19" value="Send emails to users" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
